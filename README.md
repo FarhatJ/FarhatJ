@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FarhatJ
 - 👀 I’m interested in automating task and very much interested in Cyber security, System Vulnerabilities, Virtual Machines, getting in touch with new tech. 
-- 🌱 I’m currently learning Go language
+- 🌱 I’m currently learning Go language and slash automation testing.
 - 📫 Reach out to me via email alfarhat.786@gmail.com
 
 <!---
